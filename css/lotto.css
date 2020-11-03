@@ -1,29 +1,25 @@
 #header {
-    width: 500px;
-    margin: 0 auto;
 }
 
-#header h1{
-    text-align: center;
-    margin: 0 auto;
+#header h1 {
+  text-align: center;
+  margin-top: 1rem;
 }
 
 #main {
-    margin-top: 20px;
+  margin-top: 2rem;
 }
 
 #button-section {
-    
-    width: 200px;
-    margin: 0 auto;
-    text-align: center;
+  text-align: center;
 }
 
 #lotto-section {
-    margin-top: 20px;
-    text-align: center;
+  margin-top: 2rem;
+  text-align: center;
 }
 
-#lotto-section img{
-    padding : 0 10px 0 10px;
+#lotto-section img {
+  padding: 0 0.3rem 0 0.3rem;
+  width: 3rem;
 }
